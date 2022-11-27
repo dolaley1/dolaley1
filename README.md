@@ -1,4 +1,4 @@
-- Hi, I’m @dolaley1
+- Hi, I’m Daniel Olaleye.
 - I have 2 years of experience in data analysis.
 - I’m interested in software development. 
 - I’m currently learning UI/UX design.
